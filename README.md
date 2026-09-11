@@ -59,7 +59,7 @@ combinational-heavy block, and it had no measurable effect on timing closure.
 
 ## Layout
 
-![alu layout](docs/layout.png)
+![alu layout](doc/layout.png)
 
 Full-chip GDSII view, sky130_fd_sc_hd standard cells.
 
